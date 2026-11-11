@@ -89,7 +89,11 @@ View the live detections in a browser on the PC at `http://<board-ip>:8000`. The
 
 ![YOLO detections](images/detection%20image.png)
 
-Demo video: [Watch the live YOLO detection demo](images/yolo_detection.mp4)
+Demo video: 
+
+https://github.com/user-attachments/assets/206f594d-c7a0-4acc-b9b2-ef0c5b23fccf
+
+
 
 ## Dependencies
 
